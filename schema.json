@@ -1,0 +1,77 @@
+{
+	"fields": [
+		{
+			"name": "Species",
+			"title": "Species",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "InspectionType",
+			"title": "InspectionType",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Condition",
+			"title": "Condition",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "YearMonth",
+			"title": "YearMonth",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date",
+                                "datePattern": "%Y-%m"
+			}
+		},
+		{
+			"name": "Country",
+			"title": "Country",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "NumberOfConditions",
+			"title": "NumberOfConditions",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "Throughput",
+			"title": "Throughput",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "NumberOfThroughputPlants",
+			"title": "NumberOfThroughputPlants",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "PercentageOfThroughput",
+			"title": "PercentageOfThroughput",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#float"
+			}
+		}
+	]
+}
