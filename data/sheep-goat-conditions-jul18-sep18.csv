@@ -1,0 +1,415 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Goats,AnteMortem,Abnormal Respiratory Signs,2018-07,England,6,1563,65,0.384
+Goats,AnteMortem,Abnormal Respiratory Signs,2018-08,England,3,1760,73,0.17
+Goats,AnteMortem,Abnormal Respiratory Signs,2018-09,England,19,3711,79,0.512
+Goats,AnteMortem,Dead in Lairage (DIL),2018-07,England,4,1563,65,0.256
+Goats,AnteMortem,Dead in Lairage (DIL),2018-08,England,1,1760,73,0.057
+Goats,AnteMortem,Emaciation,2018-07,England,1,1563,65,0.064
+Goats,AnteMortem,Eye Condition,2018-07,England,2,1563,65,0.128
+Goats,AnteMortem,Fever,2018-09,England,2,3711,79,0.054
+Goats,AnteMortem,Lameness - Foot Lesion(s),2018-07,England,3,1563,65,0.192
+Goats,AnteMortem,Lameness - Foot Lesion(s),2018-08,England,4,1760,73,0.227
+Goats,AnteMortem,Lameness - Foot Lesion(s),2018-09,England,1,3711,79,0.027
+Goats,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-07,England,2,1563,65,0.128
+Goats,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-08,England,1,1760,73,0.057
+Goats,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-09,England,1,3711,79,0.027
+Goats,AnteMortem,Lameness - Not Defined,2018-07,England,1,1563,65,0.064
+Goats,AnteMortem,Lameness - Not Defined,2018-08,England,1,1760,73,0.057
+Goats,AnteMortem,Lameness - Not Defined,2018-09,England,8,3711,79,0.216
+Goats,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-07,England,2,1563,65,0.128
+Goats,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-09,England,1,3711,79,0.027
+Goats,AnteMortem,Mastitis,2018-07,England,8,1563,65,0.512
+Goats,AnteMortem,Mastitis,2018-08,England,2,1760,73,0.114
+Goats,AnteMortem,Notifiable Disease *,2018-09,England,1,3711,79,0.027
+Goats,AnteMortem,Skin Condition,2018-07,England,1,1563,65,0.064
+Goats,AnteMortem,Trauma - Fracture/Dislocations,2018-08,England,1,1760,73,0.057
+Goats,AnteMortem,Trauma - Soft Tissue,2018-09,England,2,3711,79,0.054
+Goats,Carcase,Abscess Forequarters,2018-07,England,20,1563,65,1.28
+Goats,Carcase,Abscess Forequarters,2018-08,England,6,1760,73,0.341
+Goats,Carcase,Abscess Forequarters,2018-09,England,64,3711,79,1.725
+Goats,Carcase,Abscess Hindquarters,2018-07,England,5,1563,65,0.32
+Goats,Carcase,Abscess Hindquarters,2018-09,England,34,3711,79,0.916
+Goats,Carcase,Abscess Neck,2018-07,England,4,1563,65,0.256
+Goats,Carcase,Abscess Neck,2018-08,England,9,1760,73,0.511
+Goats,Carcase,Abscess Neck,2018-09,England,31,3711,79,0.835
+Goats,Carcase,Bruising ? Traumatic,2018-07,England,1,1563,65,0.064
+Goats,Carcase,Bruising ? Traumatic,2018-09,England,6,3711,79,0.162
+Goats,Carcase,Bruising ? Wool Pull,2018-09,England,10,3711,79,0.269
+Goats,Carcase,Contamination,2018-07,England,9,1563,65,0.576
+Goats,Carcase,Contamination,2018-08,England,8,1760,73,0.455
+Goats,Carcase,Contamination,2018-09,England,16,3711,79,0.431
+Goats,Carcase,Cysticercus ovis (Carcase),2018-09,England,11,3711,79,0.296
+Goats,Carcase,Joint Lesions,2018-07,England,7,1563,65,0.448
+Goats,Carcase,Joint Lesions,2018-08,England,2,1760,73,0.114
+Goats,Carcase,Joint Lesions,2018-09,England,9,3711,79,0.243
+Goats,Carcase,Other,2018-07,England,13,1563,65,0.832
+Goats,Carcase,Other,2018-08,England,5,1760,73,0.284
+Goats,Carcase,Other,2018-09,England,18,3711,79,0.485
+Goats,Offal,Contamination,2018-07,England,13,1563,65,0.832
+Goats,Offal,Contamination,2018-08,England,43,1760,73,2.443
+Goats,Offal,Contamination,2018-09,England,23,3711,79,0.62
+Goats,Offal,Contamination,2018-07,Wales,2,53,8,3.774
+Goats,Offal,Cysticercus ovis (Offal),2018-08,England,2,1760,73,0.114
+Goats,Offal,Cysticercus ovis (Offal),2018-09,England,12,3711,79,0.323
+Goats,Offal,Cysticercus ovis (Offal),2018-07,Wales,2,53,8,3.774
+Goats,Offal,Cysticercus tenuicollis,2018-07,England,11,1563,65,0.704
+Goats,Offal,Cysticercus tenuicollis,2018-08,England,39,1760,73,2.216
+Goats,Offal,Cysticercus tenuicollis,2018-09,England,166,3711,79,4.473
+Goats,Offal,Cysticercus tenuicollis,2018-07,Wales,2,53,8,3.774
+Goats,Offal,Cysticercus tenuicollis,2018-08,Wales,3,33,7,9.091
+Goats,Offal,Cysticercus tenuicollis,2018-09,Wales,2,34,5,5.882
+Goats,Offal,Fluke Immature,2018-07,England,1,1563,65,0.064
+Goats,Offal,Fluke Immature,2018-08,England,4,1760,73,0.227
+Goats,Offal,Fluke Immature,2018-09,England,18,3711,79,0.485
+Goats,Offal,Fluke Mature,2018-08,England,11,1760,73,0.625
+Goats,Offal,Fluke Mature,2018-09,England,291,3711,79,7.842
+Goats,Offal,Fluke Mature,2018-09,Wales,3,34,5,8.824
+Goats,Offal,Historic Liver Scarring,2018-07,England,3,1563,65,0.192
+Goats,Offal,Historic Liver Scarring,2018-08,England,2,1760,73,0.114
+Goats,Offal,Historic Liver Scarring,2018-09,England,16,3711,79,0.431
+Goats,Offal,Hydatid Cyst,2018-09,England,26,3711,79,0.701
+Goats,Offal,Lung Abscesses,2018-07,England,4,1563,65,0.256
+Goats,Offal,Lung Abscesses,2018-08,England,1,1760,73,0.057
+Goats,Offal,Lung Abscesses,2018-09,England,16,3711,79,0.431
+Goats,Offal,Lung Abscesses,2018-08,Wales,1,33,7,3.03
+Goats,Offal,Lung Worm ,2018-07,England,17,1563,65,1.088
+Goats,Offal,Lung Worm ,2018-08,England,50,1760,73,2.841
+Goats,Offal,Lung Worm ,2018-09,England,128,3711,79,3.449
+Goats,Offal,Lung Worm ,2018-07,Wales,4,53,8,7.547
+Goats,Offal,Lung Worm ,2018-08,Wales,1,33,7,3.03
+Goats,Offal,Other,2018-07,England,11,1563,65,0.704
+Goats,Offal,Other,2018-08,England,14,1760,73,0.795
+Goats,Offal,Other,2018-09,England,10,3711,79,0.269
+Goats,Offal,Pneumonia Mycoplasma Like,2018-07,England,50,1563,65,3.199
+Goats,Offal,Pneumonia Mycoplasma Like,2018-08,England,48,1760,73,2.727
+Goats,Offal,Pneumonia Mycoplasma Like,2018-09,England,95,3711,79,2.56
+Goats,Offal,Pneumonia Mycoplasma Like,2018-09,Wales,2,34,5,5.882
+Goats,Offal,Pneumonia Pasteurella Like,2018-07,England,11,1563,65,0.704
+Goats,Offal,Pneumonia Pasteurella Like,2018-08,England,2,1760,73,0.114
+Goats,Offal,Pneumonia Pasteurella Like,2018-09,England,22,3711,79,0.593
+Goats,Offal,Pneumonia Pasteurella Like,2018-08,Wales,1,33,7,3.03
+Goats,Total Rejection,Emaciation/Generalised Oedema,2018-07,England,2,1563,65,0.128
+Goats,Total Rejection,Emaciation/Generalised Oedema,2018-08,England,5,1760,73,0.284
+Goats,Total Rejection,Emaciation/Generalised Oedema,2018-09,England,1,3711,79,0.027
+Goats,Total Rejection,Generalised Tuberculosis (Suspect),2018-08,England,4,1760,73,0.227
+Goats,Total Rejection,Multiple Abscesses/Pyaemia,2018-07,England,5,1563,65,0.32
+Goats,Total Rejection,Multiple Abscesses/Pyaemia,2018-09,England,1,3711,79,0.027
+Goats,Total Rejection,Other,2018-07,England,1,1563,65,0.064
+Goats,Total Rejection,Other,2018-09,England,1,3711,79,0.027
+Goats,Total Rejection,Septicaemia/Fever,2018-07,England,1,1563,65,0.064
+Goats,Total Rejection,Septicaemia/Fever,2018-08,England,4,1760,73,0.227
+Goats,Total Rejection,Septicaemia/Fever,2018-09,England,3,3711,79,0.081
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-07,England,5691,704944,140,0.807
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-08,England,9165,886565,141,1.034
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-09,England,6200,642372,139,0.965
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-07,Wales,1065,265665,19,0.401
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-08,Wales,2873,318698,19,0.901
+Sheep,AnteMortem,Abnormal Respiratory Signs,2018-09,Wales,1762,310058,19,0.568
+Sheep,AnteMortem,Abnormal Swelling (e.g. Bloat),2018-07,England,23,704944,140,0.003
+Sheep,AnteMortem,Abnormal Swelling (e.g. Bloat),2018-08,England,97,886565,141,0.011
+Sheep,AnteMortem,Abnormal Swelling (e.g. Bloat),2018-09,England,47,642372,139,0.007
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-07,England,122,704944,140,0.017
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-08,England,129,886565,141,0.015
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-09,England,142,642372,139,0.022
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-07,Wales,12,265665,19,0.005
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-08,Wales,34,318698,19,0.011
+Sheep,AnteMortem,Dead in Lairage (DIL),2018-09,Wales,55,310058,19,0.018
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-07,England,16,704944,140,0.002
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-08,England,38,886565,141,0.004
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-09,England,28,642372,139,0.004
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-07,Wales,6,265665,19,0.002
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-08,Wales,15,318698,19,0.005
+Sheep,AnteMortem,Dead on Arrival (DOA),2018-09,Wales,23,310058,19,0.007
+Sheep,AnteMortem,Emaciation,2018-07,England,136,704944,140,0.019
+Sheep,AnteMortem,Emaciation,2018-08,England,241,886565,141,0.027
+Sheep,AnteMortem,Emaciation,2018-09,England,84,642372,139,0.013
+Sheep,AnteMortem,Emaciation,2018-07,Wales,3,265665,19,0.001
+Sheep,AnteMortem,Emaciation,2018-08,Wales,12,318698,19,0.004
+Sheep,AnteMortem,Eye Condition,2018-07,England,413,704944,140,0.059
+Sheep,AnteMortem,Eye Condition,2018-08,England,541,886565,141,0.061
+Sheep,AnteMortem,Eye Condition,2018-09,England,425,642372,139,0.066
+Sheep,AnteMortem,Eye Condition,2018-07,Wales,16,265665,19,0.006
+Sheep,AnteMortem,Eye Condition,2018-08,Wales,16,318698,19,0.005
+Sheep,AnteMortem,Eye Condition,2018-09,Wales,25,310058,19,0.008
+Sheep,AnteMortem,Fever,2018-07,England,2,704944,140,0
+Sheep,AnteMortem,Fever,2018-08,England,1,886565,141,0
+Sheep,AnteMortem,Fever,2018-09,England,4,642372,139,0.001
+Sheep,AnteMortem,Fever,2018-08,Wales,1,318698,19,0
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-07,England,3060,704944,140,0.434
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-08,England,4136,886565,141,0.467
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-09,England,2957,642372,139,0.46
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-07,Wales,39,265665,19,0.015
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-08,Wales,186,318698,19,0.058
+Sheep,AnteMortem,Lameness - Foot Lesion(s),2018-09,Wales,248,310058,19,0.08
+Sheep,AnteMortem,Lameness ? Foot Lesion(s),2018-07,England,1,704944,140,0
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-07,England,693,704944,140,0.098
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-08,England,1185,886565,141,0.134
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-09,England,582,642372,139,0.091
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-07,Wales,211,265665,19,0.079
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-08,Wales,36,318698,19,0.011
+Sheep,AnteMortem,Lameness - Joint/Leg Lesion(s),2018-09,Wales,13,310058,19,0.004
+Sheep,AnteMortem,Lameness - Not Defined,2018-07,England,1559,704944,140,0.221
+Sheep,AnteMortem,Lameness - Not Defined,2018-08,England,2526,886565,141,0.285
+Sheep,AnteMortem,Lameness - Not Defined,2018-09,England,1838,642372,139,0.286
+Sheep,AnteMortem,Lameness - Not Defined,2018-07,Wales,2243,265665,19,0.844
+Sheep,AnteMortem,Lameness - Not Defined,2018-08,Wales,3376,318698,19,1.059
+Sheep,AnteMortem,Lameness - Not Defined,2018-09,Wales,2757,310058,19,0.889
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-07,England,174,704944,140,0.025
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-08,England,310,886565,141,0.035
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-09,England,257,642372,139,0.04
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-07,Wales,2,265665,19,0.001
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-08,Wales,5,318698,19,0.002
+Sheep,AnteMortem,"Localised Swelling/ Lumps (e.g. Abscess, Tumour)",2018-09,Wales,5,310058,19,0.002
+Sheep,AnteMortem,Maggots,2018-07,England,15,704944,140,0.002
+Sheep,AnteMortem,Maggots,2018-08,England,9,886565,141,0.001
+Sheep,AnteMortem,Maggots,2018-09,England,3,642372,139,0
+Sheep,AnteMortem,Mastitis,2018-07,England,470,704944,140,0.067
+Sheep,AnteMortem,Mastitis,2018-08,England,496,886565,141,0.056
+Sheep,AnteMortem,Mastitis,2018-09,England,206,642372,139,0.032
+Sheep,AnteMortem,Mastitis,2018-08,Wales,2,318698,19,0.001
+Sheep,AnteMortem,Moribund/ Recumbent,2018-07,England,19,704944,140,0.003
+Sheep,AnteMortem,Moribund/ Recumbent,2018-08,England,15,886565,141,0.002
+Sheep,AnteMortem,Moribund/ Recumbent,2018-09,England,10,642372,139,0.002
+Sheep,AnteMortem,Moribund/ Recumbent,2018-09,Wales,5,310058,19,0.002
+Sheep,AnteMortem,Neurological Signs,2018-07,England,1,704944,140,0
+Sheep,AnteMortem,Neurological Signs,2018-08,England,10,886565,141,0.001
+Sheep,AnteMortem,Neurological Signs,2018-09,England,1,642372,139,0
+Sheep,AnteMortem,Neurological Signs,2018-08,Wales,2,318698,19,0.001
+Sheep,AnteMortem,Notifiable Disease *,2018-08,England,7,886565,141,0.001
+Sheep,AnteMortem,Orf,2018-07,England,397,704944,140,0.056
+Sheep,AnteMortem,Orf,2018-08,England,222,886565,141,0.025
+Sheep,AnteMortem,Orf,2018-09,England,122,642372,139,0.019
+Sheep,AnteMortem,Orf,2018-07,Wales,2,265665,19,0.001
+Sheep,AnteMortem,Orf,2018-08,Wales,4,318698,19,0.001
+Sheep,AnteMortem,Orf,2018-09,Wales,9,310058,19,0.003
+Sheep,AnteMortem,Other *,2018-07,England,32,704944,140,0.005
+Sheep,AnteMortem,Other *,2018-08,England,79,886565,141,0.009
+Sheep,AnteMortem,Other *,2018-09,England,26,642372,139,0.004
+Sheep,AnteMortem,Other *,2018-07,Wales,20,265665,19,0.008
+Sheep,AnteMortem,Other *,2018-08,Wales,10,318698,19,0.003
+Sheep,AnteMortem,Other *,2018-09,Wales,7,310058,19,0.002
+Sheep,AnteMortem,Prolapsed,2018-07,England,52,704944,140,0.007
+Sheep,AnteMortem,Prolapsed,2018-08,England,52,886565,141,0.006
+Sheep,AnteMortem,Prolapsed,2018-09,England,18,642372,139,0.003
+Sheep,AnteMortem,Prolapsed,2018-07,Wales,29,265665,19,0.011
+Sheep,AnteMortem,Prolapsed,2018-08,Wales,15,318698,19,0.005
+Sheep,AnteMortem,Prolapsed,2018-09,Wales,6,310058,19,0.002
+Sheep,AnteMortem,Residues  *,2018-07,England,2,704944,140,0
+Sheep,AnteMortem,Sheep Scab ,2018-07,England,17,704944,140,0.002
+Sheep,AnteMortem,Sheep Scab ,2018-08,England,14,886565,141,0.002
+Sheep,AnteMortem,Sheep Scab ,2018-09,England,131,642372,139,0.02
+Sheep,AnteMortem,Sheep Scab ,2018-07,Wales,1,265665,19,0
+Sheep,AnteMortem,Skin Condition,2018-07,England,764,704944,140,0.108
+Sheep,AnteMortem,Skin Condition,2018-08,England,849,886565,141,0.096
+Sheep,AnteMortem,Skin Condition,2018-09,England,590,642372,139,0.092
+Sheep,AnteMortem,Skin Condition,2018-07,Wales,198,265665,19,0.075
+Sheep,AnteMortem,Skin Condition,2018-08,Wales,253,318698,19,0.079
+Sheep,AnteMortem,Skin Condition,2018-09,Wales,341,310058,19,0.11
+Sheep,AnteMortem,Slaughtered in Lairage,2018-07,England,12,704944,140,0.002
+Sheep,AnteMortem,Slaughtered in Lairage,2018-08,England,7,886565,141,0.001
+Sheep,AnteMortem,Slaughtered in Lairage,2018-09,England,10,642372,139,0.002
+Sheep,AnteMortem,Slaughtered in Lairage,2018-08,Wales,2,318698,19,0.001
+Sheep,AnteMortem,Suspect Emaciation/Poor Condition,2018-07,England,2,704944,140,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-07,England,3,704944,140,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-08,England,1,886565,141,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-09,England,3,642372,139,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-07,Wales,1,265665,19,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-08,Wales,1,318698,19,0
+Sheep,AnteMortem,Trauma - Fracture/Dislocations,2018-09,Wales,3,310058,19,0.001
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-07,England,19,704944,140,0.003
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-08,England,34,886565,141,0.004
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-09,England,17,642372,139,0.003
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-07,Wales,5,265665,19,0.002
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-08,Wales,6,318698,19,0.002
+Sheep,AnteMortem,Trauma - Soft Tissue,2018-09,Wales,3,310058,19,0.001
+Sheep,Carcase,Abscess Forequarters,2018-07,England,5873,704944,140,0.833
+Sheep,Carcase,Abscess Forequarters,2018-08,England,8917,886565,141,1.006
+Sheep,Carcase,Abscess Forequarters,2018-09,England,5387,642372,139,0.839
+Sheep,Carcase,Abscess Forequarters,2018-07,Wales,1041,265665,19,0.392
+Sheep,Carcase,Abscess Forequarters,2018-08,Wales,1276,318698,19,0.4
+Sheep,Carcase,Abscess Forequarters,2018-09,Wales,1087,310058,19,0.351
+Sheep,Carcase,Abscess Hindquarters,2018-07,England,2706,704944,140,0.384
+Sheep,Carcase,Abscess Hindquarters,2018-08,England,3910,886565,141,0.441
+Sheep,Carcase,Abscess Hindquarters,2018-09,England,2358,642372,139,0.367
+Sheep,Carcase,Abscess Hindquarters,2018-07,Wales,511,265665,19,0.192
+Sheep,Carcase,Abscess Hindquarters,2018-08,Wales,380,318698,19,0.119
+Sheep,Carcase,Abscess Hindquarters,2018-09,Wales,624,310058,19,0.201
+Sheep,Carcase,Abscess Neck,2018-07,England,5717,704944,140,0.811
+Sheep,Carcase,Abscess Neck,2018-08,England,7290,886565,141,0.822
+Sheep,Carcase,Abscess Neck,2018-09,England,5281,642372,139,0.822
+Sheep,Carcase,Abscess Neck,2018-07,Wales,1376,265665,19,0.518
+Sheep,Carcase,Abscess Neck,2018-08,Wales,1484,318698,19,0.466
+Sheep,Carcase,Abscess Neck,2018-09,Wales,1359,310058,19,0.438
+Sheep,Carcase,Bruising ? Traumatic,2018-07,England,1056,704944,140,0.15
+Sheep,Carcase,Bruising ? Traumatic,2018-08,England,1359,886565,141,0.153
+Sheep,Carcase,Bruising ? Traumatic,2018-09,England,901,642372,139,0.14
+Sheep,Carcase,Bruising ? Traumatic,2018-07,Wales,737,265665,19,0.277
+Sheep,Carcase,Bruising ? Traumatic,2018-08,Wales,669,318698,19,0.21
+Sheep,Carcase,Bruising ? Traumatic,2018-09,Wales,572,310058,19,0.184
+Sheep,Carcase,Bruising ? Wool Pull,2018-07,England,540,704944,140,0.077
+Sheep,Carcase,Bruising ? Wool Pull,2018-08,England,740,886565,141,0.083
+Sheep,Carcase,Bruising ? Wool Pull,2018-09,England,507,642372,139,0.079
+Sheep,Carcase,Bruising ? Wool Pull,2018-07,Wales,198,265665,19,0.075
+Sheep,Carcase,Bruising ? Wool Pull,2018-08,Wales,155,318698,19,0.049
+Sheep,Carcase,Bruising ? Wool Pull,2018-09,Wales,111,310058,19,0.036
+Sheep,Carcase,Contamination,2018-07,England,21184,704944,140,3.005
+Sheep,Carcase,Contamination,2018-08,England,27504,886565,141,3.102
+Sheep,Carcase,Contamination,2018-09,England,20506,642372,139,3.192
+Sheep,Carcase,Contamination,2018-07,Wales,8346,265665,19,3.142
+Sheep,Carcase,Contamination,2018-08,Wales,10888,318698,19,3.416
+Sheep,Carcase,Contamination,2018-09,Wales,11399,310058,19,3.676
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-07,England,2017,704944,140,0.286
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-08,England,2342,886565,141,0.264
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-09,England,1483,642372,139,0.231
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-07,Wales,611,265665,19,0.23
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-08,Wales,898,318698,19,0.282
+Sheep,Carcase,Cysticercus ovis (Carcase),2018-09,Wales,1218,310058,19,0.393
+Sheep,Carcase,Hydatid Cyst,2018-07,England,379,704944,140,0.054
+Sheep,Carcase,Hydatid Cyst,2018-08,England,131,886565,141,0.015
+Sheep,Carcase,Hydatid Cyst,2018-09,England,81,642372,139,0.013
+Sheep,Carcase,Hydatid Cyst,2018-07,Wales,3,265665,19,0.001
+Sheep,Carcase,Hydatid Cyst,2018-08,Wales,5,318698,19,0.002
+Sheep,Carcase,Hydatid Cyst,2018-09,Wales,5,310058,19,0.002
+Sheep,Carcase,Joint Lesions,2018-07,England,2542,704944,140,0.361
+Sheep,Carcase,Joint Lesions,2018-08,England,3486,886565,141,0.393
+Sheep,Carcase,Joint Lesions,2018-09,England,2317,642372,139,0.361
+Sheep,Carcase,Joint Lesions,2018-07,Wales,1024,265665,19,0.385
+Sheep,Carcase,Joint Lesions,2018-08,Wales,1217,318698,19,0.382
+Sheep,Carcase,Joint Lesions,2018-09,Wales,1228,310058,19,0.396
+Sheep,Carcase,Other,2018-07,England,4698,704944,140,0.666
+Sheep,Carcase,Other,2018-08,England,6169,886565,141,0.696
+Sheep,Carcase,Other,2018-09,England,5129,642372,139,0.798
+Sheep,Carcase,Other,2018-07,Wales,964,265665,19,0.363
+Sheep,Carcase,Other,2018-08,Wales,1190,318698,19,0.373
+Sheep,Carcase,Other,2018-09,Wales,336,310058,19,0.108
+Sheep,Carcases,Contamination,2018-09,England,2,642372,139,0
+Sheep,Carcases,Joint Lesions (Incl. Arthritis),2018-09,England,2,642372,139,0
+Sheep,Offal,Contamination,2018-07,England,9063,704944,140,1.286
+Sheep,Offal,Contamination,2018-08,England,14074,886565,141,1.587
+Sheep,Offal,Contamination,2018-09,England,8709,642372,139,1.356
+Sheep,Offal,Contamination,2018-07,Wales,3629,265665,19,1.366
+Sheep,Offal,Contamination,2018-08,Wales,4215,318698,19,1.323
+Sheep,Offal,Contamination,2018-09,Wales,2903,310058,19,0.936
+Sheep,Offal,Cysticercus ovis (Offal),2018-07,England,3173,704944,140,0.45
+Sheep,Offal,Cysticercus ovis (Offal),2018-08,England,4038,886565,141,0.455
+Sheep,Offal,Cysticercus ovis (Offal),2018-09,England,2603,642372,139,0.405
+Sheep,Offal,Cysticercus ovis (Offal),2018-07,Wales,577,265665,19,0.217
+Sheep,Offal,Cysticercus ovis (Offal),2018-08,Wales,799,318698,19,0.251
+Sheep,Offal,Cysticercus ovis (Offal),2018-09,Wales,1559,310058,19,0.503
+Sheep,Offal,Cysticercus tenuicollis,2018-07,England,51368,704944,140,7.287
+Sheep,Offal,Cysticercus tenuicollis,2018-08,England,66049,886565,141,7.45
+Sheep,Offal,Cysticercus tenuicollis,2018-09,England,39738,642372,139,6.186
+Sheep,Offal,Cysticercus tenuicollis,2018-07,Wales,19418,265665,19,7.309
+Sheep,Offal,Cysticercus tenuicollis,2018-08,Wales,17707,318698,19,5.556
+Sheep,Offal,Cysticercus tenuicollis,2018-09,Wales,13787,310058,19,4.447
+Sheep,Offal,Fluke Immature,2018-07,England,8031,704944,140,1.139
+Sheep,Offal,Fluke Immature,2018-08,England,11413,886565,141,1.287
+Sheep,Offal,Fluke Immature,2018-09,England,5878,642372,139,0.915
+Sheep,Offal,Fluke Immature,2018-07,Wales,161,265665,19,0.061
+Sheep,Offal,Fluke Immature,2018-08,Wales,306,318698,19,0.096
+Sheep,Offal,Fluke Immature,2018-09,Wales,320,310058,19,0.103
+Sheep,Offal,Fluke Mature,2018-07,England,30840,704944,140,4.375
+Sheep,Offal,Fluke Mature,2018-08,England,38325,886565,141,4.323
+Sheep,Offal,Fluke Mature,2018-09,England,26302,642372,139,4.095
+Sheep,Offal,Fluke Mature,2018-07,Wales,5356,265665,19,2.016
+Sheep,Offal,Fluke Mature,2018-08,Wales,6780,318698,19,2.127
+Sheep,Offal,Fluke Mature,2018-09,Wales,7480,310058,19,2.412
+Sheep,Offal,Historic Liver Scarring,2018-07,England,2199,704944,140,0.312
+Sheep,Offal,Historic Liver Scarring,2018-08,England,3898,886565,141,0.44
+Sheep,Offal,Historic Liver Scarring,2018-09,England,3101,642372,139,0.483
+Sheep,Offal,Historic Liver Scarring,2018-07,Wales,137,265665,19,0.052
+Sheep,Offal,Historic Liver Scarring,2018-08,Wales,254,318698,19,0.08
+Sheep,Offal,Historic Liver Scarring,2018-09,Wales,308,310058,19,0.099
+Sheep,Offal,Hydatid Cyst,2018-07,England,958,704944,140,0.136
+Sheep,Offal,Hydatid Cyst,2018-08,England,1745,886565,141,0.197
+Sheep,Offal,Hydatid Cyst,2018-09,England,1185,642372,139,0.184
+Sheep,Offal,Hydatid Cyst,2018-07,Wales,35,265665,19,0.013
+Sheep,Offal,Hydatid Cyst,2018-08,Wales,111,318698,19,0.035
+Sheep,Offal,Hydatid Cyst,2018-09,Wales,53,310058,19,0.017
+Sheep,Offal,Lung Abscesses,2018-07,England,4375,704944,140,0.621
+Sheep,Offal,Lung Abscesses,2018-08,England,5136,886565,141,0.579
+Sheep,Offal,Lung Abscesses,2018-09,England,4189,642372,139,0.652
+Sheep,Offal,Lung Abscesses,2018-07,Wales,2105,265665,19,0.792
+Sheep,Offal,Lung Abscesses,2018-08,Wales,1619,318698,19,0.508
+Sheep,Offal,Lung Abscesses,2018-09,Wales,1321,310058,19,0.426
+Sheep,Offal,Lung Worm ,2018-07,England,34493,704944,140,4.893
+Sheep,Offal,Lung Worm ,2018-08,England,39009,886565,141,4.4
+Sheep,Offal,Lung Worm ,2018-09,England,25763,642372,139,4.011
+Sheep,Offal,Lung Worm ,2018-07,Wales,9464,265665,19,3.562
+Sheep,Offal,Lung Worm ,2018-08,Wales,16316,318698,19,5.12
+Sheep,Offal,Lung Worm ,2018-09,Wales,11491,310058,19,3.706
+Sheep,Offal,Lungworm,2018-08,England,3,886565,141,0
+Sheep,Offal,Lungworm,2018-09,England,2,642372,139,0
+Sheep,Offal,Other,2018-07,England,5047,704944,140,0.716
+Sheep,Offal,Other,2018-08,England,5875,886565,141,0.663
+Sheep,Offal,Other,2018-09,England,5381,642372,139,0.838
+Sheep,Offal,Other,2018-07,Wales,1138,265665,19,0.428
+Sheep,Offal,Other,2018-08,Wales,1393,318698,19,0.437
+Sheep,Offal,Other,2018-09,Wales,1523,310058,19,0.491
+Sheep,Offal,Pneumonia,2018-08,England,6,886565,141,0.001
+Sheep,Offal,Pneumonia,2018-09,England,2,642372,139,0
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-07,England,20141,704944,140,2.857
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-08,England,30563,886565,141,3.447
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-09,England,19129,642372,139,2.978
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-07,Wales,9841,265665,19,3.704
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-08,Wales,14500,318698,19,4.55
+Sheep,Offal,Pneumonia Mycoplasma Like,2018-09,Wales,12881,310058,19,4.154
+Sheep,Offal,Pneumonia Pasteurella Like,2018-07,England,11838,704944,140,1.679
+Sheep,Offal,Pneumonia Pasteurella Like,2018-08,England,13912,886565,141,1.569
+Sheep,Offal,Pneumonia Pasteurella Like,2018-09,England,12794,642372,139,1.992
+Sheep,Offal,Pneumonia Pasteurella Like,2018-07,Wales,3328,265665,19,1.253
+Sheep,Offal,Pneumonia Pasteurella Like,2018-08,Wales,4627,318698,19,1.452
+Sheep,Offal,Pneumonia Pasteurella Like,2018-09,Wales,2477,310058,19,0.799
+Sheep,Total Rejection,Contamination,2018-07,England,15,704944,140,0.002
+Sheep,Total Rejection,Contamination,2018-08,England,19,886565,141,0.002
+Sheep,Total Rejection,Contamination,2018-09,England,13,642372,139,0.002
+Sheep,Total Rejection,Contamination,2018-07,Wales,2,265665,19,0.001
+Sheep,Total Rejection,Contamination,2018-08,Wales,8,318698,19,0.003
+Sheep,Total Rejection,Contamination,2018-09,Wales,3,310058,19,0.001
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-07,England,102,704944,140,0.014
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-08,England,102,886565,141,0.012
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-09,England,59,642372,139,0.009
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-07,Wales,12,265665,19,0.005
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-08,Wales,32,318698,19,0.01
+Sheep,Total Rejection,Cysticercus ovis (Generalised),2018-09,Wales,19,310058,19,0.006
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-07,England,637,704944,140,0.09
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-08,England,721,886565,141,0.081
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-09,England,303,642372,139,0.047
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-07,Wales,24,265665,19,0.009
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-08,Wales,35,318698,19,0.011
+Sheep,Total Rejection,Emaciation/Generalised Oedema,2018-09,Wales,17,310058,19,0.005
+Sheep,Total Rejection,Generalised Tuberculosis (Suspect),2018-08,England,1,886565,141,0
+Sheep,Total Rejection,Hydatidosis,2018-07,England,1,704944,140,0
+Sheep,Total Rejection,Jaundice,2018-07,England,11,704944,140,0.002
+Sheep,Total Rejection,Jaundice,2018-08,England,14,886565,141,0.002
+Sheep,Total Rejection,Jaundice,2018-09,England,5,642372,139,0.001
+Sheep,Total Rejection,Jaundice,2018-07,Wales,1,265665,19,0
+Sheep,Total Rejection,Jaundice,2018-08,Wales,3,318698,19,0.001
+Sheep,Total Rejection,Jaundice,2018-09,Wales,1,310058,19,0
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-07,England,128,704944,140,0.018
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-08,England,144,886565,141,0.016
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-09,England,71,642372,139,0.011
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-07,Wales,9,265665,19,0.003
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-08,Wales,6,318698,19,0.002
+Sheep,Total Rejection,Multiple Abscesses/Pyaemia,2018-09,Wales,6,310058,19,0.002
+Sheep,Total Rejection,Other,2018-07,England,43,704944,140,0.006
+Sheep,Total Rejection,Other,2018-08,England,69,886565,141,0.008
+Sheep,Total Rejection,Other,2018-09,England,30,642372,139,0.005
+Sheep,Total Rejection,Other,2018-07,Wales,1,265665,19,0
+Sheep,Total Rejection,Other,2018-08,Wales,11,318698,19,0.003
+Sheep,Total Rejection,Other,2018-09,Wales,7,310058,19,0.002
+Sheep,Total Rejection,Polyarthritis,2018-07,England,68,704944,140,0.01
+Sheep,Total Rejection,Polyarthritis,2018-08,England,68,886565,141,0.008
+Sheep,Total Rejection,Polyarthritis,2018-09,England,47,642372,139,0.007
+Sheep,Total Rejection,Polyarthritis,2018-07,Wales,12,265665,19,0.005
+Sheep,Total Rejection,Polyarthritis,2018-08,Wales,17,318698,19,0.005
+Sheep,Total Rejection,Polyarthritis,2018-09,Wales,20,310058,19,0.006
+Sheep,Total Rejection,Processing Fault,2018-07,England,3,704944,140,0
+Sheep,Total Rejection,Processing Fault,2018-07,Wales,41,265665,19,0.015
+Sheep,Total Rejection,Processing Fault,2018-09,Wales,1,310058,19,0
+Sheep,Total Rejection,Septicaemia/Fever,2018-07,England,81,704944,140,0.011
+Sheep,Total Rejection,Septicaemia/Fever,2018-08,England,70,886565,141,0.008
+Sheep,Total Rejection,Septicaemia/Fever,2018-09,England,62,642372,139,0.01
+Sheep,Total Rejection,Septicaemia/Fever,2018-07,Wales,7,265665,19,0.003
+Sheep,Total Rejection,Septicaemia/Fever,2018-08,Wales,16,318698,19,0.005
+Sheep,Total Rejection,Septicaemia/Fever,2018-09,Wales,10,310058,19,0.003
